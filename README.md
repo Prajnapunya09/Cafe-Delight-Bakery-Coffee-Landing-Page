@@ -10,19 +10,19 @@ The website includes:
 - **About (`about.html`)** – Story and values of the cafe.  
 - **Contact (`contact.html`)** – Contact details including email, phone, and address.  
 
-## 🖼️ Demo Preview
+## 🖼️ Demo Preview  
 
-### 🏠 Home Page
-[View Home Page Image](https://github.com/Prajnapunya09/Cafe-Delight-Bakery-Coffee-Landing-Page/blob/main/cafe%20delight.jpg)
+### 🏠 Home Page  
+![Home Page](https://github.com/Prajnapunya09/Cafe-Delight-Bakery-Coffee-Landing-Page/blob/main/cafe%20delight.jpg?raw=true)  
 
-### ℹ️ About Page
-[View About Page Image](https://github.com/Prajnapunya09/Cafe-Delight-Bakery-Coffee-Landing-Page/blob/main/cafe%20delight-about.jpg)
+### ℹ️ About Page  
+![About Page](https://github.com/Prajnapunya09/Cafe-Delight-Bakery-Coffee-Landing-Page/blob/main/cafe%20delight-about.jpg?raw=true)  
 
-### 🍽️ Menu Page
-[View Menu Page Image](https://github.com/Prajnapunya09/Cafe-Delight-Bakery-Coffee-Landing-Page/blob/main/cafe%20delight-menu.jpg)
+### 🍽️ Menu Page  
+![Menu Page](https://github.com/Prajnapunya09/Cafe-Delight-Bakery-Coffee-Landing-Page/blob/main/cafe%20delight-menu.jpg?raw=true)  
 
-### 📞 Contact Page
-[View Contact Page Image](https://github.com/Prajnapunya09/Cafe-Delight-Bakery-Coffee-Landing-Page/blob/main/cafe%20delight-contact.jpg)
+### 📞 Contact Page  
+![Contact Page](https://github.com/Prajnapunya09/Cafe-Delight-Bakery-Coffee-Landing-Page/blob/main/cafe%20delight-contact.jpg?raw=true)  
 
 
 ## ✨ Features  
