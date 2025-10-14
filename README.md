@@ -10,7 +10,7 @@ The website includes:
 - **About (`about.html`)** – Story and values of the cafe.  
 - **Contact (`contact.html`)** – Contact details including email, phone, and address.  
 
-## 🖼️ Demo Preview  
+## 🖼️  Demo Preview  
 
 ### 🏠 Home Page  
 ![Home Page](https://github.com/Prajnapunya09/Cafe-Delight-Bakery-Coffee-Landing-Page/blob/main/cafe%20delight.jpg?raw=true)  
