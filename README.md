@@ -25,7 +25,7 @@ The website includes:
 ![Contact Page](https://github.com/Prajnapunya09/Cafe-Delight-Bakery-Coffee-Landing-Page/blob/main/cafe%20delight-contact.jpg?raw=true)  
 
 
-## ✨  Features  
+## ✨ Features  
 - Fully responsive design  
 - Multi-page navigation with active link highlighting  
 - Grid-based menu with item descriptions & pricing  
