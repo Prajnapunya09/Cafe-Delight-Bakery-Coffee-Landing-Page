@@ -1,6 +1,6 @@
 # ☕  Cafe Delight – Bakery & Coffee Website  
 
-## 📖  About the Project
+## 📖 About the Project
 **Cafe Delight** is a responsive **static website** built using **HTML5 and CSS3**.  
 It is designed for a cafe/bakery business to showcase their **menu, story, and contact details** in a simple and elegant layout.
 
