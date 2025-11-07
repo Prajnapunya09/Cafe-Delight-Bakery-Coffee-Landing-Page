@@ -1,4 +1,4 @@
-# ☕ Cafe Delight – Bakery & Coffee Website  
+# ☕  Cafe Delight – Bakery & Coffee Website  
 
 ## 📖  About the Project
 **Cafe Delight** is a responsive **static website** built using **HTML5 and CSS3**.  
